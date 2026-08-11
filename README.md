@@ -244,11 +244,12 @@ Tensor concepts are important for understanding how numerical data is represente
 ```text
 Data-Profiler/
 │
-├── Data_Profiler.ipynb
+├── Data_Profiler_code_file.ipynb
 ├── customer_data_profiler.csv
 ├── customer_purchases.json
 ├── customer_database.db
 ├── customer_ml_ready.csv
+├── Data_Profiler_pdf.pdf
 ├── screenshots
 │  ├── ss_1.png
 │  ├── ss_2.png
