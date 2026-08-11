@@ -262,9 +262,6 @@ Data-Profiler/
 └── README.md
 
 ```
-
-> Place the generated `dashboard.png` inside an `assets` folder when uploading to GitHub, then keep the README image path as `assets/dashboard.png`.
-
 ---
 
 ## ▶️ How to Run
