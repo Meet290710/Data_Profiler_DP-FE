@@ -345,4 +345,24 @@ The final dataset provides a strong foundation for building a future customer-ch
 
 ---
 
+---
+
+# 👨‍💻 Author
+
+## Meet Mehta
+
+I enjoy working with data, building analytical projects, and transforming raw datasets into meaningful insights. I'm continuously improving my skills in **Python, Data Analysis, SQL, Excel, Power BI, and Machine Learning**.
+
+### 🚀 What I Do
+
+- 📊 Data Analysis & Visualization
+- 🐍 Python Programming
+- 🧹 Data Cleaning & Preprocessing
+- 🧠 Machine Learning Fundamentals
+- 📈 Power BI Dashboard Development
+- 🗄️ SQL & Database Management
+- 📑 Excel & Data Reporting
+- 📓 Jupyter Notebook Projects
+
+---
 ### ⭐ If you find this project useful, consider giving the repository a star!
